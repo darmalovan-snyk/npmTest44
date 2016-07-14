@@ -9,7 +9,8 @@
  "dependencies": {
     "falcor-hapi": "netflix/falcor-hapi",
     "bassmaster": "1.5.1",
-    "errorhandler": "1.2.0"
+    "errorhandler": "1.2.0",
+    "dojo": "^1.11.2"
 }, 
  "author": "",
   "license": "ISC"
