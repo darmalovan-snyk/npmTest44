@@ -1,0 +1,11 @@
+version: v1.5.0
+ignore:
+  'npm:bl:20160119':
+    - falcor-router-demo > pouchdb > level-sublevel > levelup > bl:
+        reason: None given
+        expires: '2016-11-26T15:45:54.518Z'
+  'npm:pouchdb:20160830':
+    - falcor-router-demo > pouchdb:
+        reason: None given
+        expires: '2016-11-26T15:45:54.519Z'
+patch: {}
