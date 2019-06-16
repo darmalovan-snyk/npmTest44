@@ -8,7 +8,9 @@
   },
  "dependencies": {
     "falcor-router-demo": "1.0.5",
-    "express": "4.17.1"
+    "express": "4.17.1",
+    "ms": "^0.7.1",
+    "npmconf": "0.0.24"
 }, 
  "author": "",
   "license": "ISC"
